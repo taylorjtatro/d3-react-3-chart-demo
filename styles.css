@@ -1,4 +1,4 @@
-body {
+/* body {
     margin: 0;
     overflow: hidden;
     font-family: 'Poppins', sans-serif;
@@ -27,7 +27,7 @@ pre {
 /* .mark {
     fill: #137B80
 } */
-
+/*
 .mark {
     transition: all 0.5s;
 }
@@ -53,7 +53,7 @@ select option {
 } */
 
 
-/*React dropdown css pulled right from the module  */
+/*React dropdown css pulled right from the module  *//*
 .Dropdown-root {
 font-size: 1.5em;
 position: relative;
@@ -104,7 +104,7 @@ border: 1px solid #ccc;
 box-shadow: 0 1px 0 rgba(0, 0, 0, 0.06);
 box-sizing: border-box;
 margin-top: -1px;
-/* max-height: 200px; */
+/* max-height: 200px; *//*
 max-height: 400px;
 overflow-y: auto;
 position: absolute;
@@ -159,4 +159,4 @@ padding: 8px 10px;
    display: flex;
    justify-content: flex-start;
    align-items: center;
-}
+} */
